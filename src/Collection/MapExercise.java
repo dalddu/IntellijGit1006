@@ -1,3 +1,5 @@
+
+/*
 package Collection;
 
 import java.util.HashMap;
@@ -92,3 +94,4 @@ public class MapExercise {
         System.out.println(map.get("김경록"));  // 찾기
     }
 }
+*/
