@@ -1,6 +1,6 @@
 package Date10_17;
 
-public class RightTriangle2 {
+public class RightTriangle1 {
     public static void main(String[] args) {
         /*
          *
